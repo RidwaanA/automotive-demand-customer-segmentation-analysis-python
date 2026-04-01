@@ -64,7 +64,7 @@ plt.show()
 ### Income & Purchase Behavior
 - Strong positive relationship between:
   → Age → Salary → Car Price
-  Higher-income customers prefer premium vehicles (SUVs)
+- Higher-income customers prefer premium vehicles (SUVs)
 ### Behavioral Patterns
 - Male customers prefer Hatchbacks
 - Female customers prefer Sedans
@@ -75,6 +75,19 @@ plt.show()
 - Target customers aged 22–45 for volume growth
 - Position SUVs as premium offerings for high-income segments
 - Tailor marketing strategies:
-  → Hatchbacks → younger, price-sensitive buyers
-  → Sedans → mid-income professionals (especially female segment)
-  → SUVs → high-income, financially stable buyers
+  - → Hatchbacks → younger, price-sensitive buyers
+  - → Sedans → mid-income professionals (especially female segment)
+  - → SUVs → high-income, financially stable buyers
+ 
+# Outcome / Impact
+This analysis enables:
+
+- Data-driven market entry strategy
+- Optimized product mix and inventory planning
+- Targeted customer segmentation and marketing
+- Improved revenue potential through pricing alignment
+
+# Next Steps
+- Build a predictive model for car purchase likelihood
+- Develop customer lifetime value (CLV) segmentation
+- Create an interactive Tableau dashboard for stakeholders
