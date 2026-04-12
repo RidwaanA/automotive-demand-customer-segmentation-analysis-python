@@ -43,7 +43,7 @@ df.groupby(['Make'])['Age'].mean()
 sns.relplot(data=df, x='Price', y='Total_salary', col='Make', col_order=['Hatchback', 'Sedan', 'SUV')
 ```
 ```
-//Correlation analysis
+// Correlation analysis
 plt.figure(figsize=(15,7))
 sns.heatmap(df.corr(), annot=True, vmin=-1, vmax=1, fmt='.2f', cmap='Spectral');
 plt.show()
