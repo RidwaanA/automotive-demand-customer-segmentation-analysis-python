@@ -59,6 +59,7 @@ plt.show()
 **Demand Trends**
 - Hatchback dominates market (56%), followed by Sedan (29%), SUV (15%)
 - SUVs are highest priced, Hatchbacks are most affordable
+
 **Customer Segmentation**
 - Hatchback buyers:
   → Younger (22–30), lower income
@@ -66,10 +67,12 @@ plt.show()
   → Mid-age (28–45), mid-income
 - SUV buyers:
   → Older (35–60), highest income
+
 **Income & Purchase Behavior**
 - Strong positive relationship between:
   → Age → Salary → Car Price
 - Higher-income customers prefer premium vehicles (SUVs)
+
 **Behavioral Patterns**
 - Male customers prefer Hatchbacks
 - Female customers prefer Sedans
