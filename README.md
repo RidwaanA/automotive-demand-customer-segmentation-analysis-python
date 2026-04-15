@@ -90,10 +90,10 @@ plt.show()
 ## Outcome / Impact
 This analysis enables:
 
-- Data-driven market entry strategy
-- Optimized product mix and inventory planning
-- Targeted customer segmentation and marketing
-- Improved revenue potential through pricing alignment
+- ✅ Data-driven market entry strategy
+- ✅ Optimized product mix and inventory planning
+- ✅ Targeted customer segmentation and marketing
+- ✅ Improved revenue potential through pricing alignment
 
 # Next Steps
 - Build a predictive model for car purchase likelihood
