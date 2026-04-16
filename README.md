@@ -30,19 +30,19 @@ Austo is expanding into the U.S. market and needs to understand:
 - Built customer segmentation based on age, income, and purchase behavior
 
 ## Key Code Highlights
-```
+```python
 // Demand distribution by car type
 df['Make'].value_counts(normalize=True)
 ```
-```
+```python
 // Customer segmentation by age and car type
 df.groupby(['Make'])['Age'].mean()
 ```
-```
+```python
 // Income vs purchase behavior
 sns.relplot(data=df, x='Price', y='Total_salary', col='Make', col_order=['Hatchback', 'Sedan', 'SUV')
 ```
-```
+```python
 // Correlation analysis
 plt.figure(figsize=(15,7))
 sns.heatmap(df.corr(), annot=True, vmin=-1, vmax=1, fmt='.2f', cmap='Spectral');
