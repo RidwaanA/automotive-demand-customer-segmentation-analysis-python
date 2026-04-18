@@ -50,10 +50,22 @@ plt.show()
 ```
 
 ## Visualization / Dashboard
-- Distribution plots for age, salary, and car prices
-- Car demand by category (Hatchback, Sedan, SUV)
-- Correlation heatmaps (income, age, price)
-- Multivariate segmentation plots (Age vs Income vs Car Type)
+
+**Python (Jupyter Notebook)**
+- 📌 Distribution plots for age, salary, and car prices
+- 📌 Car demand by category (Hatchback, Sedan, SUV)
+- 📌 Correlation heatmaps (income, age, price)
+- 📌 Multivariate segmentation plots (age vs income vs car type)
+
+**Tableau**
+- 📌 Highlight table: Car make distribution across the dataset
+- 📌 Bar chart: Average age of buyers across car makes
+- 📌 Bar chart: Average car prices across car makes
+- 📌 Bar chart: Average buyer salaries across car makes
+- 📌 Bar chart: Average partner salaries across car makes
+- 📌 Bar chart: Average total salaries across car makes
+- 📌 Bar chart: Average number of dependents across car makes
+- 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/AutomotiveDemandTrendsCustomerPurchaseBehaviorAnalysis/CarMakesandBuyersProfiles?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Key Insights
 **Demand Trends**
