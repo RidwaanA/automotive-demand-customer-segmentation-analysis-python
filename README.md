@@ -53,11 +53,11 @@ plt.show()
 **Python (Jupyter Notebook)**
 - 📌 Distribution plots for age, salary, and car prices
 - 📌 Multivariate segmentation plots (age vs income vs car type)
- 📌 Car demand by category (Hatchback, Sedan, SUV)
-<img width="904" height="525" alt="Heat map_Numerical features3" src="https://github.com/user-attachments/assets/0f60af90-4b57-4ad8-a0c3-937cee9c356c" />
+- 📌 Car demand by category (Hatchback, Sedan, SUV)
+<img width="573" height="306" alt="Bar chart_Gender count1" src="https://github.com/user-attachments/assets/44c6cdee-ddcb-4f78-b8e9-faa0531e6a12" />
 
 - 📌 Correlation heatmaps (income, age, price)
-<img width="573" height="306" alt="Bar chart_Gender count1" src="https://github.com/user-attachments/assets/44c6cdee-ddcb-4f78-b8e9-faa0531e6a12" />
+<img width="904" height="525" alt="Heat map_Numerical features3" src="https://github.com/user-attachments/assets/0f60af90-4b57-4ad8-a0c3-937cee9c356c" />
 
 ---
 
