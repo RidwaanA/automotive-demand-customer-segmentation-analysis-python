@@ -19,9 +19,9 @@ Austo is expanding into the U.S. market and needs to understand:
 - 3 car categories: Hatchback, Sedan, SUV
 
 ## Tools & Technologies
-- Python (Pandas, NumPy, Seaborn, Matplotlib)
-- Jupyter Notebook
-- Tableau Desktop / Tableau Public
+- **Python** (Pandas, NumPy, Seaborn, Matplotlib)
+- **Jupyter Notebook**
+- **Tableau**
 
 ## Data Processing / Methodology
 - Validated dataset (no missing values or duplicates)
@@ -64,8 +64,7 @@ plt.show()
 - 📌 Bar chart: Average partner salaries across car makes
 - 📌 Bar chart: Average total salaries across car makes
 - 📌 Bar chart: Average number of dependents across car makes
-
-🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/AutomotiveDemandTrendsCustomerPurchaseBehaviorAnalysis/CarMakesandBuyersProfiles?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/AutomotiveDemandTrendsCustomerPurchaseBehaviorAnalysis/CarMakesandBuyersProfiles?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Key Insights
 **Demand Trends**
